@@ -1,1 +1,2 @@
-# Car Pooling using MERN Stack
+npm i
+run dev satrt
