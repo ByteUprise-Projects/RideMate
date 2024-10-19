@@ -1,2 +1,2 @@
-npm i
-run dev satrt
+Install : npm install
+Run :npm run dev
